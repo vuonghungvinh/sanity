@@ -1,0 +1,28 @@
+{
+  "name": "demo1",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "vuonghungvinh <vuonghungvinhit@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "test": "sanity check"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^0.123.1",
+    "@sanity/components": "^0.123.1",
+    "@sanity/core": "^0.123.1",
+    "@sanity/default-layout": "^0.123.1",
+    "@sanity/default-login": "^0.121.1",
+    "@sanity/desk-tool": "^0.123.1",
+    "@sanity/google-maps-input": "^0.123.1",
+    "react": "^15.6",
+    "react-dom": "^15.6"
+  },
+  "devDependencies": {}
+}
